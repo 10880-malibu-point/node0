@@ -1,0 +1,7 @@
+# App blacklist - packages that must never be on the phone.
+# Enforced by scripts/phone_disable_watchdog.sh: present -> force-stop +
+# pm uninstall --user 0 (fallback pm disable-user), and NEVER re-enabled by
+# any allow-list. One package per line. '#' comments are ignored.
+#
+# 27-Sep-2026: Via Browser, uninstalled by hand at the user's request.
+mark.via
