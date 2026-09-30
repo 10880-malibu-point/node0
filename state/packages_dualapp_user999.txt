@@ -1,0 +1,14 @@
+android
+com.android.providers.media
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.google.android.as
+com.google.android.ext.services
+com.google.android.gms
+com.google.android.gsf
+com.google.android.permissioncontroller
+com.google.android.permissioncontroller.overlay.oplus
+com.google.android.webview
+com.oplus.securitypermission
+com.whatsapp

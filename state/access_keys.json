@@ -1,0 +1,20 @@
+{
+ "vps2_adbkey_pub": {
+  "path": "/opt/data/tools/platform-tools/.android/adbkey.pub",
+  "exists": true,
+  "fingerprint": "",
+  "pub": "QAAAALtmJ7uNEc45n99Ppib7oqlBq2fVlhhlDYcBoFEHT5DOsR919ho7KqphN5ALB0t5VFbM+Lvl2xThkPDYSSHAGJd7p9jBHyYDwFQeEPjLQEwElOcu1V8Z"
+ },
+ "vps2_ssh_phone_ed25519": {
+  "path": "/opt/data/home/.ssh/phone_ed25519",
+  "exists": true,
+  "fingerprint": "256 SHA256:8NTOyOKm0qCiikmyIWLoCKGZoXWGi+pO1yA+aiRScSY phone-termux (ED25519)",
+  "pub": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxig4g/9WBO3WxrKfwXGsOVYGy+33ViTlR3O+qHiWob phone-termux"
+ },
+ "vps2_ssh_id_ed25519": {
+  "path": "/opt/data/home/.ssh/id_ed25519",
+  "exists": true,
+  "fingerprint": "256 SHA256:HSHrbrKGtV7okYmONf+88H73dasoMu8gt9RGCNRENVc hermes-box (ED25519)",
+  "pub": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJqIskLNjz//ttlQaI7+V9KFLsfC4uSxjxwC7RnH6xcU hermes-box"
+ }
+}

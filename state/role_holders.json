@@ -1,0 +1,62 @@
+{
+ "android.app.role.BROWSER": [
+  "com.duckduckgo.mobile.android"
+ ],
+ "android.app.role.DIALER": [
+  "com.google.android.dialer"
+ ],
+ "android.app.role.EMERGENCY": [
+  "com.oplus.sos"
+ ],
+ "android.app.role.HOME": [
+  "com.android.launcher"
+ ],
+ "android.app.role.SMS": [
+  "com.microsoft.android.smsorganizer"
+ ],
+ "android.app.role.SYSTEM_ACTIVITY_RECOGNIZER": [
+  "com.google.android.gms"
+ ],
+ "android.app.role.SYSTEM_AUDIO_INTELLIGENCE": [
+  "com.google.android.as"
+ ],
+ "android.app.role.SYSTEM_BLUETOOTH_STACK": [
+  "com.android.bluetooth"
+ ],
+ "android.app.role.SYSTEM_COMPANION_DEVICE_PROVIDER": [
+  "com.google.android.gms"
+ ],
+ "android.app.role.SYSTEM_CONTACTS": [
+  "com.google.android.contacts"
+ ],
+ "android.app.role.SYSTEM_DOCUMENT_MANAGER": [
+  "com.google.android.documentsui"
+ ],
+ "android.app.role.SYSTEM_GALLERY": [
+  "com.oneplus.gallery"
+ ],
+ "android.app.role.SYSTEM_NOTIFICATION_INTELLIGENCE": [
+  "com.google.android.as"
+ ],
+ "android.app.role.SYSTEM_SETTINGS_INTELLIGENCE": [
+  "com.android.settings.intelligence"
+ ],
+ "android.app.role.SYSTEM_SHELL": [
+  "com.android.shell"
+ ],
+ "android.app.role.SYSTEM_SPEECH_RECOGNIZER": [
+  "com.google.android.tts"
+ ],
+ "android.app.role.SYSTEM_TEXT_INTELLIGENCE": [
+  "com.google.android.as"
+ ],
+ "android.app.role.SYSTEM_UI": [
+  "com.android.systemui"
+ ],
+ "android.app.role.SYSTEM_UI_INTELLIGENCE": [
+  "com.google.android.as"
+ ],
+ "android.app.role.SYSTEM_VISUAL_INTELLIGENCE": [
+  "com.aiunit.aon"
+ ]
+}

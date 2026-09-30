@@ -1,0 +1,15 @@
+{
+ "adb_tcp_port": "5555",
+ "android_version": "16",
+ "bootreason": "reboot,factory_reset",
+ "build_incremental": "U.R4T2.1a9ba23_a93568_a4472c",
+ "captured_at": "2026-09-30T17:21:46+00:00",
+ "device": "OP5D49L1",
+ "display_id": "CPH2619_16.0.5.1200(EX01)",
+ "door_mesh": "10.7.0.3:5555",
+ "door_reverse": "162.35.173.192:5556",
+ "model": "CPH2619",
+ "oplus_os": "V16.0.0",
+ "serial": "79e6e520",
+ "usb_config": "adb"
+}

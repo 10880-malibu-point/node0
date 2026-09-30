@@ -1,0 +1,467 @@
+=/android.autoinstalls.config.oneplus-git06nxi2r4BPHJmPJaJgw==/base.apk=android.autoinstalls.config.oneplus	/data/app/~~8eHfXUD93lWTYUSASeGKmQ	not-in-user0,not-enabled
+=/at.bitfire.davdroid-QBXYZmhBgatzBT9NkXGhGg==/base.apk=at.bitfire.davdroid	/data/app/~~3JzcNx4B5mgskG9ZmvoFKQ	not-in-user0,not-enabled
+=/com.Slack-entaP3BUVj5LYWBTzmDHag==/base.apk=com.Slack	/data/app/~~nCk9dbRT0KVM0TPW9uAXhw	not-in-user0,not-enabled
+=/com.akylas.documentscanner-Zd54p0ndw61Hbh5NW6QDVw==/base.apk=com.akylas.documentscanner	/data/app/~~uk8FIn1rape3ch2uWeoqMg	not-in-user0,not-enabled
+=/com.android.vending-lRvnF5GD3J53O8pF2agvPg==/base.apk=com.android.vending	/data/app/~~HiTBnUNH9LUcjreiXIXtfw	not-in-user0,not-enabled
+=/com.application.zomato-IT_iWzlY9NhjI4clt0p3xg==/base.apk=com.application.zomato	/data/app/~~LsYykO1R3mYaAldbqTBiTQ	not-in-user0,not-enabled
+=/com.beemdevelopment.aegis-v-lfqMoWLaygQpXqpeU31A==/base.apk=com.beemdevelopment.aegis	/data/app/~~Dw2kGpGjgnEnZ5IoBxR8EA	not-in-user0,not-enabled
+=/com.brave.browser-LNJ13BKcdVoo6VKQIazyyA==/base.apk=com.brave.browser	/data/app/~~L-Q-63AZyLg5joKWDOSV7Q	not-in-user0,not-enabled
+=/com.byterdevs.rsswidget-TF9o7hkJ-oc-AcxPokn45A==/base.apk=com.byterdevs.rsswidget	/data/app/~~TTP7VhFADwqHudvweXqRjQ	not-in-user0,not-enabled
+=/com.chess-ddf9gUrRFkI1iiOoPQMxqA==/base.apk=com.chess	/data/app/~~ow1bw0J6LEXsuCtQeGzvSg	not-in-user0,not-enabled
+=/com.coloros.assistantscreen-pMvEuT_12--odcNVkI0gCg==/base.apk=com.coloros.assistantscreen	/data/app/~~AZTYu0NutVSHNfjbU8tHKQ	not-in-user0,not-enabled
+=/com.coloros.weather.service-9dnisZFKi3S2py7Iw5hiFw==/base.apk=com.coloros.weather.service	/data/app/~~WlCV0-G7AoKoEFHogbMCWg	not-in-user0,not-enabled
+=/com.duckduckgo.mobile.android-0ibWKWF3mCP15_QaBS-cpw==/base.apk=com.duckduckgo.mobile.android	/data/app/~~B_pZvndb9eIq09kdnSBHFw	not-in-user0,not-enabled
+=/com.github.android-KueK6A9nS5qR7Sq_iAvC-A==/base.apk=com.github.android	/data/app/~~D9yElhE5QT8-T9xa8Cl_aw	not-in-user0,not-enabled
+=/com.github.catfriend1.syncthingfork-1sXcX4d4UD6HnGDRwOPJyw==/base.apk=com.github.catfriend1.syncthingfork	/data/app/~~EqfH6IeBHbN32-Sti8vBgQ	not-in-user0,not-enabled
+=/com.google.ambient.streaming-s53crx16IlgTj7zSJ5S2SQ==/base.apk=com.google.ambient.streaming	/data/app/~~MAG-Vq-W1bwhABRMOKAktA	not-in-user0,not-enabled
+=/com.google.android.apps.adm-TTqlQZe6KIMfLUH__TzzgA==/base.apk=com.google.android.apps.adm	/data/app/~~cfdK0nKQr6a2p5XMfqtQig	not-in-user0,not-enabled
+=/com.google.android.apps.chromecast.app-YbT9aLS1pAdHLax8iZsoXg==/base.apk=com.google.android.apps.chromecast.app	/data/app/~~e1zFHL7sMYW68-KyMsTemg	not-in-user0,not-enabled
+=/com.google.android.apps.docs-hiDkxybaTe1MaPd6WXDXXQ==/base.apk=com.google.android.apps.docs	/data/app/~~zT4AjmJMTf4wZ-r3XJP0ng	not-in-user0,not-enabled
+=/com.google.android.apps.docs.editors.docs-wIoYjpPRKRPZtviHXP8FbQ==/base.apk=com.google.android.apps.docs.editors.docs	/data/app/~~68qiP5Q_GhOPFqbtk4Hgtg	not-in-user0,not-enabled
+=/com.google.android.apps.docs.editors.sheets-WQZzgXWMLG4n3Guq03WkWw==/base.apk=com.google.android.apps.docs.editors.sheets	/data/app/~~C1PJEpbIbD7dwAxrDfw8tQ	not-in-user0,not-enabled
+=/com.google.android.apps.maps-65vhITPygt36z8aEic_zHg==/base.apk=com.google.android.apps.maps	/data/app/~~90GYVvqcxfh6fS_kRRJs7A	not-in-user0,not-enabled
+=/com.google.android.apps.messaging-GetoPrHj-1fWZ8pq22aR1Q==/base.apk=com.google.android.apps.messaging	/data/app/~~8vryYVTOTMi6TDcSP79iWQ	not-in-user0,not-enabled
+=/com.google.android.apps.nbu.files-q2OqXVUTvUK3PujbU45QzA==/base.apk=com.google.android.apps.nbu.files	/data/app/~~cs90y5kndmgbEzcAtjdHRA	not-in-user0,not-enabled
+=/com.google.android.apps.nbu.paisa.user-PB1Y0iobHWk6PnOEsYBdBg==/base.apk=com.google.android.apps.nbu.paisa.user	/data/app/~~SkTrdaDmRZeqxjvNS8_Drw	not-in-user0,not-enabled
+=/com.google.android.apps.restore-T_aYTipTol3HAtIglJ4d0Q==/base.apk=com.google.android.apps.restore	/data/app/~~mVUGxIV5DoRFwpFoESWOCw	not-in-user0,not-enabled
+=/com.google.android.apps.tasks-7c7DVBTJWz4CJXMVKooTxA==/base.apk=com.google.android.apps.tasks	/data/app/~~ppNSMJDDAos7L52MHmzHFA	not-in-user0,not-enabled
+=/com.google.android.apps.translate-kwkNo1V5UXiq6ITlTB6kZQ==/base.apk=com.google.android.apps.translate	/data/app/~~V7k2cOynxenZJA8MOdXueA	not-in-user0,not-enabled
+=/com.google.android.as-6_NaqjQS2ENfk9a_3mU-Vw==/base.apk=com.google.android.as	/data/app/~~NBNlSPFbwheo4kNd-vbILQ	not-in-user0,not-enabled
+=/com.google.android.as.oss-o7m8vV-H7mWvon0TK8KnVw==/base.apk=com.google.android.as.oss	/data/app/~~n1awiT4cm1xPPh78C48vJA	not-in-user0,not-enabled
+=/com.google.android.calendar-iIhk5SKyugpXhmFXDKYGzA==/base.apk=com.google.android.calendar	/data/app/~~xTSGEzXBvVocq3mUeZoP3Q	not-in-user0,not-enabled
+=/com.google.android.contactkeys-Bx2O-ubAg5Wka3Zm8hI53w==/base.apk=com.google.android.contactkeys	/data/app/~~Zy1YL84K0Qex4xJwdBUhaw	not-in-user0,not-enabled
+=/com.google.android.contacts-JQaCpp5auYoIVNb1u5ItLQ==/base.apk=com.google.android.contacts	/data/app/~~txcqVb_kYkKtQHZKr1ylVw	not-in-user0,not-enabled
+=/com.google.android.dialer-5elvOqCPmn3FDeE-bdNWBw==/base.apk=com.google.android.dialer	/data/app/~~2dUrb32BDVKEuSvPirFR7g	not-in-user0,not-enabled
+=/com.google.android.gm-756F0uqw7OZMiIepQ_Jmng==/base.apk=com.google.android.gm	/data/app/~~4x1Ova8ksxUg3WidMmqZJQ	not-in-user0,not-enabled
+=/com.google.android.gms-w5p9F7TXvsgcDft7aMMQeg==/base.apk=com.google.android.gms	/data/app/~~NS2_8jQ7f7NV9HTZtQufZA	not-in-user0,not-enabled
+=/com.google.android.inputmethod.latin-EBJEput8dwRox3qgMPHVkA==/base.apk=com.google.android.inputmethod.latin	/data/app/~~9Fc-7CfIggjzB2ME3HfU_w	not-in-user0,not-enabled
+=/com.google.android.safetycore-5pw_iUn83tB58nMzGBrc2Q==/base.apk=com.google.android.safetycore	/data/app/~~umcfDQCi99HU4QJA-GKomw	not-in-user0,not-enabled
+=/com.google.android.tts-ZwkY21d3jtdpZAKnYKFbPA==/base.apk=com.google.android.tts	/data/app/~~CMl3T_izieayWuuWWWa2sw	not-in-user0,not-enabled
+=/com.google.android.verifier-1CaUECsic8SLhUjTlKTukQ==/base.apk=com.google.android.verifier	/data/app/~~TiqSYvFQOEDg9jvzxCTwoQ	not-in-user0,not-enabled
+=/com.google.android.videos-1kx1wQjNiFSI60XFxpy19A==/base.apk=com.google.android.videos	/data/app/~~KuL23sDOtLQOZvzJOf6fXw	not-in-user0,not-enabled
+=/com.google.android.webview-CE7SodVwwjacVBoZRLpPgQ==/base.apk=com.google.android.webview	/data/app/~~IeNrJNFzClALnXk3Xa4oxA	not-in-user0,not-enabled
+=/com.google.ar.core-6AsPm-88grpGNafkCQXKNw==/base.apk=com.google.ar.core	/data/app/~~-eqOewEB3zhkfAf0_MZzMw	not-in-user0,not-enabled
+=/com.google.ar.lens-3ATd05t3aZAHGyfJQVydmQ==/base.apk=com.google.ar.lens	/data/app/~~garo79o9Qz6pepYPdAnLaA	not-in-user0,not-enabled
+=/com.heytap.htms-1vv6wPrUKDgW06mVO7DYjQ==/base.apk=com.heytap.htms	/data/app/~~n-0eFuXja_H7drFTn5lidA	not-in-user0,not-enabled
+=/com.makemytrip-GyrzVeADYsdBIFwa5JP6aQ==/base.apk=com.makemytrip	/data/app/~~eT_OJ6MHAhBcI18g309egg	not-in-user0,not-enabled
+=/com.microsoft.android.smsorganizer-QQIPbUJz8md6LYpQsAqIPg==/base.apk=com.microsoft.android.smsorganizer	/data/app/~~nQ-RZMZ1CoxPutyyvAeIXQ	not-in-user0,not-enabled
+=/com.microsoft.appmanager-j2p3F8WtZPblJmVP68EXdw==/base.apk=com.microsoft.appmanager	/data/app/~~HMSr4i1j0l2Ozy4w1NurOQ	not-in-user0,not-enabled
+=/com.myairtelapp-GMJWEwSJXvZR65Y6fOYkaQ==/base.apk=com.myairtelapp	/data/app/~~9DhzFB_jTh65QbCBvO8Dxg	not-in-user0,not-enabled
+=/com.onlyoffice.documents-2qacQHkvYZXZQXNPvlhrCQ==/base.apk=com.onlyoffice.documents	/data/app/~~JyfrnBxFPWpSCCzUeNR_Ow	not-in-user0,not-enabled
+=/com.openai.chatgpt-rvtbqqojuL32EpC8EjYKEA==/base.apk=com.openai.chatgpt	/data/app/~~FDXqmwtoXegyt5EDm00H0g	not-in-user0,not-enabled
+=/com.oplus.melody-gdwd8rqMhKakXeXSxaA1_Q==/base.apk=com.oplus.melody	/data/app/~~hkLBlCp-4A5gy3EU1sis1A	not-in-user0,not-enabled
+=/com.oppo.quicksearchbox-8C5O3BAox6fuksckS6dOQQ==/base.apk=com.oppo.quicksearchbox	/data/app/~~5roBP4JqNjwmdZ5B5M6ODg	not-in-user0,not-enabled
+=/com.phonepe.app-VfJiFaC84btPz1RINzfO8w==/base.apk=com.phonepe.app	/data/app/~~CdZJTUB12kbb_s2n-3SbGw	not-in-user0,not-enabled
+=/com.pinterest-40vhPgtlANfBTo3Zv2HHYg==/base.apk=com.pinterest	/data/app/~~BFk_XGv2N6b66-8z5UNMDw	not-in-user0,not-enabled
+=/com.rapido.passenger-bNqYJNZQBmHs-pyKHh-JyQ==/base.apk=com.rapido.passenger	/data/app/~~5THQmy6l4pIb8nPfG7rNnA	not-in-user0,not-enabled
+=/com.termux-LMSeOTfaRcQzYjrUlSUJpw==/base.apk=com.termux	/data/app/~~NuQInoqdhnLKHQ8Rnru8dw	not-in-user0,not-enabled
+=/com.termux.api-ZT8iverosh3bjQ20NW8C1g==/base.apk=com.termux.api	/data/app/~~INO-1Xz1aciOSI_sArVgQQ	not-in-user0,not-enabled
+=/com.termux.boot-zdEdGwW5FSU7Ai41rry2BQ==/base.apk=com.termux.boot	/data/app/~~PGo-_hwXVErP5QU_hHzhyw	not-in-user0,not-enabled
+=/com.whatsapp-bW5oeakLG6-KFSlOhjJIWQ==/base.apk=com.whatsapp	/data/app/~~PNoxf4xHcegwK9RxdB6Khg	not-in-user0,not-enabled
+=/com.wireguard.android-CQoh8f0eLsooEfucb-0zPQ==/base.apk=com.wireguard.android	/data/app/~~MaPcCnNaAE6lzLYn6i-tOQ	not-in-user0,not-enabled
+=/cyou.sk5s.app.weread-igace67mwEI0CDN3Kibf8w==/base.apk=cyou.sk5s.app.weread	/data/app/~~xDeOcIZF2fRTd_p8TLHNZQ	not-in-user0,not-enabled
+=/indwin.c3.shareapp-wH-wiZc0ueWVt4n1G8R9jQ==/base.apk=indwin.c3.shareapp	/data/app/~~Aj6p7STxJAgEuxUQq6YlYw	not-in-user0,not-enabled
+=/me.mudkip.moememos-xnSE3--DJISh8G-NnSa26A==/base.apk=me.mudkip.moememos	/data/app/~~dV4C2aaBoUpvtgrsLoclIw	not-in-user0,not-enabled
+=/moe.sable.client-Z77BuaJiDksfVoj7ubFLWQ==/base.apk=moe.sable.client	/data/app/~~BQjCJPVzQAIyDcKk09l9oQ	not-in-user0,not-enabled
+=/net.oneplus.weather-GTJBaYnilAvQ-S1bKmhz-w==/base.apk=net.oneplus.weather	/data/app/~~20MqOerW22Be4XbDGedb0Q	not-in-user0,not-enabled
+=/org.fdroid.fdroid-QzPhEqUyCipGzk4_3KYcEA==/base.apk=org.fdroid.fdroid	/data/app/~~KKtTQQzOZKozipFAGEDd9g	not-in-user0,not-enabled
+=/org.handmadeideas.floccus-ON6uOVt906HcUP3ryVNVOw==/base.apk=org.handmadeideas.floccus	/data/app/~~KIyNYFJr8_sZrPdAxNDDoQ	not-in-user0,not-enabled
+android	/system/framework/framework-res.apk	dual-app-user999
+android.auto_generated_characteristics_rro	/product/overlay/framework-res__nosdcard__auto_generated_characteristics_rro.apk	
+android.connectivity.base.overlay	/system_ext/overlay/ConnectivityBaseOverlay.apk	
+android.framework.res.rro.oneplus	/product/overlay/android_framework_res_rro_export_oneplus.apk	
+android.frameworkres.overlay	/product/overlay/framework_res_overlay.23881.apk	
+android.frameworkres.overlay.Network	/system_ext/overlay/framework_res_overlay_Network.apk	
+android.frameworkres.overlay.display.product	/product/overlay/android_framework_res_overlay.display.product.23881.apk	
+android.overlay.common	/product/overlay/FrameworksResCommon_Sys.apk	
+android.overlay.target	/vendor/overlay/FrameworksResTarget_Vendor.apk	
+aon.frameworkres.overlay.display.product	/product/overlay/aon_framework_res_overlay.display.product.apk	
+com.KatanLabs.tilematchpuzzlemaster	/data/app/com.KatanLabs.tilematchpuzzlemaster/com.KatanLabs.tilematchpuzzlemaster.apk	disabled-user,third-party
+com.agoda.mobile.consumer	/data/app/com.agoda.mobile.consumer/com.agoda.mobile.consumer.apk	disabled-user,third-party
+com.aiunit.aon	/product/app/AONService/AONService.apk	
+com.android.DeviceAsWebcam	/system/priv-app/DeviceAsWebcam/DeviceAsWebcam.apk	
+com.android.apps.tag	/system/priv-app/Tag/Tag.apk	
+com.android.avatarpicker	/system_ext/priv-app/AvatarPicker/AvatarPicker.apk	
+com.android.backupconfirm	/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk	
+com.android.bips	/system_ext/priv-app/BuiltInPrintService/BuiltInPrintService.apk	
+com.android.bluetooth	/system/app/Bluetooth/Bluetooth.apk	
+com.android.bluetooth.oplus.overlay	/system_ext/overlay/OplusBluetoothResource.apk	
+com.android.bluetoothmidiservice	/system/app/BluetoothMidiService/BluetoothMidiService.apk	
+com.android.bookmarkprovider	/system/app/BookmarkProvider/BookmarkProvider.apk	
+com.android.calllogbackup	/system_ext/priv-app/CallLogBackup/CallLogBackup.apk	
+com.android.camerabigballconfig.overlay	/product/overlay/OplusCameraBigBallConfigOverlay/OplusCameraBigBallConfigOverlay.apk	
+com.android.cameraextensions	/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk	
+com.android.carrierconfig	/system_ext/priv-app/CarrierConfig/CarrierConfig.apk	
+com.android.carrierconfig.oplus.overlay	/product/overlay/OplusCarrierConfig.apk	
+com.android.carrierconfig.overlay.common	/product/overlay/CarrierConfigResCommon_Sys.apk	
+com.android.carrierconfig.overlay.product	/product/overlay/CarrierConfigOverlay.product.23881B.apk	
+com.android.carrierconfig.overlay.product.platform	/product/overlay/CarrierConfigOverlay.platform.SM6375B.apk	
+com.android.carrierdefaultapp	/system/app/CarrierDefaultApp/CarrierDefaultApp.apk	
+com.android.cellbroadcastreceiver	/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk	
+com.android.cellbroadcastreceiver.overlay.common	/product/overlay/CellBroadcastReceiverResCommon_Sys.apk	
+com.android.certinstaller	/system_ext/app/CertInstaller/CertInstaller.apk	
+com.android.companiondevicemanager	/system/app/CompanionDeviceManager/CompanionDeviceManager.apk	
+com.android.companiondevicemanager.auto_generated_characteristics_rro	/product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk	
+com.android.compos.payload	/apex/com.android.compos/app/CompOSPayloadApp@BP2A.250605.015/CompOSPayloadApp.apk	
+com.android.credentialmanager	/system/priv-app/CredentialManager/CredentialManager.apk	
+com.android.cts.ctsshim	/apex/com.android.apex.cts.shim/app/CtsShim@MAIN/CtsShim.apk	
+com.android.cts.priv.ctsshim	/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv@MAIN/CtsShimPriv.apk	
+com.android.devicediagnostics	/system/priv-app/DeviceDiagnostics/DeviceDiagnostics.apk	
+com.android.dreams.basic	/system/app/BasicDreams/BasicDreams.apk	
+com.android.dynsystem	/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk	
+com.android.egg	/system/app/EasterEgg/EasterEgg.apk	
+com.android.email.partnerprovider	/product/app/EmailPartnerProvider/EmailPartnerProvider.apk	
+com.android.externalstorage	/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk	
+com.android.hotwordenrollment.okgoogle	/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON.apk	
+com.android.hotwordenrollment.xgoogle	/product/priv-app/HotwordEnrollmentXGoogleHEXAGON.apk	
+com.android.htmlviewer	/system_ext/app/HTMLViewer/HTMLViewer.apk	
+com.android.inputdevices	/system/priv-app/InputDevices/InputDevices.apk	
+com.android.intentresolver	/system/priv-app/IntentResolver/IntentResolver.apk	
+com.android.internal.display.cutout.emulation.corner	/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk	
+com.android.internal.display.cutout.emulation.double	/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk	
+com.android.internal.display.cutout.emulation.hole	/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk	
+com.android.internal.display.cutout.emulation.tall	/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk	
+com.android.internal.display.cutout.emulation.waterfall	/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk	
+com.android.internal.systemui.navbar.gestural	/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk	
+com.android.internal.systemui.navbar.threebutton	/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk	
+com.android.internal.systemui.navbar.transparent	/product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk	
+com.android.keychain	/system_ext/app/KeyChain/KeyChain.apk	
+com.android.launcher	/system_ext/priv-app/OplusLauncher/OplusLauncher.apk	
+com.android.localtransport	/system/priv-app/LocalTransport/LocalTransport.apk	
+com.android.location.fused	/system/priv-app/FusedLocation/FusedLocation.apk	
+com.android.managedprovisioning	/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk	
+com.android.microdroid.empty_payload	/apex/com.android.virt/app/EmptyPayloadApp@BP2A.250605.015/EmptyPayloadApp.apk	
+com.android.mms.service	/system_ext/priv-app/MmsService/MmsService.apk	
+com.android.mtp	/system/priv-app/MtpService/MtpService.apk	
+com.android.musicfx	/system/priv-app/MusicFX/MusicFX.apk	
+com.android.ncm.overlay.common	/product/overlay/NcmTetheringResCommon_Sys.apk	
+com.android.nfc	/system/priv-app/NfcNci/NfcNci.apk	disabled-user
+com.android.oemextensions	/system/app/ExtensionsService/ExtensionsService.apk	
+com.android.ons	/system/priv-app/ONS/ONS.apk	
+com.android.pacprocessor	/system/app/PacProcessor/PacProcessor.apk	
+com.android.phone	/system_ext/priv-app/TeleService/TeleService.apk	
+com.android.phone.auto_generated_characteristics_rro	/product/overlay/TeleService__nosdcard__auto_generated_characteristics_rro.apk	
+com.android.phone.overlay.common	/product/overlay/TelephonyResCommon_Sys.apk	
+com.android.printspooler	/system_ext/app/PrintSpooler/PrintSpooler.apk	
+com.android.providers.blockednumber	/system_ext/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk	
+com.android.providers.calendar	/system_ext/priv-app/CalendarProvider/CalendarProvider.apk	
+com.android.providers.contactkeys	/system/priv-app/E2eeContactKeysProvider/E2eeContactKeysProvider.apk	
+com.android.providers.contacts	/system_ext/priv-app/ContactsProvider/ContactsProvider.apk	
+com.android.providers.downloads	/system_ext/priv-app/DownloadProvider/DownloadProvider.apk	
+com.android.providers.downloads.ui	/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk	
+com.android.providers.media	/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk	dual-app-user999
+com.android.providers.partnerbookmarks	/product/app/ChromePartnerProvider/ChromePartnerProvider.apk	
+com.android.providers.settings	/system_ext/priv-app/SettingsProvider/SettingsProvider.apk	
+com.android.providers.telephony	/system_ext/priv-app/TelephonyProvider/TelephonyProvider.apk	
+com.android.providers.telephony.auto_generated_characteristics_rro	/product/overlay/TelephonyProvider__nosdcard__auto_generated_characteristics_rro.apk	
+com.android.providers.userdictionary	/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk	
+com.android.proxyhandler	/system/priv-app/ProxyHandler/ProxyHandler.apk	
+com.android.role.notes.enabled	/product/overlay/NotesRoleEnabled/NotesRoleEnabledOverlay.apk	
+com.android.safetycenter.resources.overlay	/system_ext/overlay/SafetyCenterResourcesOverlay/SafetyCenterResourcesOverlay.apk	
+com.android.safetycenter.styles.overlay	/system_ext/overlay/SafetyCenterStylesOverlay/SafetyCenterStylesOverlay.apk	
+com.android.se	/system_ext/app/SecureElement/SecureElement.apk	
+com.android.se.overlay.target	/vendor/overlay/SecureElementResTarget_Vendor.apk	
+com.android.server.telecom	/system_ext/priv-app/Telecom/Telecom.apk	
+com.android.server.telecom.overlay.common	/product/overlay/TelecommResCommon_Sys.apk	
+com.android.settings	/system_ext/priv-app/Settings/Settings.apk	
+com.android.settings.intelligence	/system_ext/priv-app/SettingsIntelligence/SettingsIntelligence.apk	
+com.android.settings.overlay.common	/product/overlay/SettingsResCommon_Sys.apk	
+com.android.sharedstoragebackup	/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk	
+com.android.shell	/system/priv-app/Shell/Shell.apk	
+com.android.simappdialog	/system/app/SimAppDialog/SimAppDialog.apk	
+com.android.statementservice	/system_ext/priv-app/StatementService/StatementService.apk	
+com.android.stk	/system_ext/app/Stk/Stk.apk	disabled-user
+com.android.storagemanager	/system_ext/priv-app/StorageManager/StorageManager.apk	
+com.android.systemui	/system_ext/priv-app/SystemUI/SystemUI.apk	
+com.android.systemui.accessibility.accessibilitymenu	/system_ext/app/AccessibilityMenu/AccessibilityMenu.apk	
+com.android.systemui.oplus.res.overlay	/product/overlay/OplusSystemuiResOverlay/OplusSystemuiResOverlay.apk	
+com.android.systemui.overlay.common	/product/overlay/SystemUIResCommon_Sys.apk	
+com.android.systemui.overlay.fingerprint.anim.cosmos	/product/overlay/SystemUIFingerprintRes_16_0_COSMOS.apk	
+com.android.systemui.overlay.fingerprint.anim.fireworks	/product/overlay/SystemUIFingerprintRes_16_0_FIREWORKS.apk	
+com.android.systemui.overlay.fingerprint.anim.fy	/product/overlay/SystemUIFingerprintRes_16_0_FY.apk	
+com.android.systemui.overlay.fingerprint.anim.halo	/product/overlay/SystemUIFingerprintRes_16_0_Halo.apk	
+com.android.systemui.overlay.fingerprint.anim.huanying	/product/overlay/SystemUIFingerprintRes_16_0_HY.apk	
+com.android.systemui.overlay.fingerprint.anim.none	/product/overlay/SystemUIFingerprintRes_13_0_NONE.apk	
+com.android.systemui.overlay.fingerprint.anim.qy	/product/overlay/SystemUIFingerprintRes_16_0_QY.apk	
+com.android.systemui.overlay.fingerprint.anim.ripple	/product/overlay/SystemUIFingerprintRes_16_0_RIPPLE.apk	
+com.android.systemui.overlay.fingerprint.anim.stripe	/product/overlay/SystemUIFingerprintRes_16_0_STRIPE.apk	
+com.android.systemui.overlay.fingerprint.anim.sw	/product/overlay/SystemUIFingerprintRes_16_0_SW.apk	
+com.android.theme.font.notoserifsource	/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk	
+com.android.traceur	/system/app/Traceur/Traceur.apk	
+com.android.virtualmachine.res	/apex/com.android.virt/app/android.system.virtualmachine.res@BP2A.250605.015/android.system.virtualmachine.res.apk	
+com.android.vpndialogs	/system_ext/priv-app/VpnDialogs/VpnDialogs.apk	
+com.android.wallpaper.livepicker	/product/app/WallpaperChooser/WallpaperChooser.apk	
+com.android.wallpaperbackup	/system/app/WallpaperBackup/WallpaperBackup.apk	
+com.android.wifi.resources.overlay.common	/product/overlay/WifiResCommon_Sys.apk	
+com.android.wifi.resources.overlay.oplus	/system_ext/overlay/OplusWifiResourceEx.apk	
+com.android.wifi.resources.overlay.target	/vendor/overlay/WifiResTarget.apk	
+com.coloros.accessibilityassistant	/product/app/ColorAccessibilityAssistant/ColorAccessibilityAssistant.apk	
+com.coloros.activation	/product/app/OplusPhoneActivation/OplusPhoneActivation.apk	
+com.coloros.bootreg	/product/priv-app/OplusBootReg/OplusBootReg.apk	
+com.coloros.childrenspace	/product/app/ChildrenSpace/ChildrenSpace.apk	disabled-user
+com.coloros.colordirectservice	/product/app/ColorDirectService/ColorDirectService.apk	disabled-user
+com.coloros.compass2	/product/app/OppoCompass2/OppoCompass2.apk	disabled-user
+com.coloros.floatassistant	/product/app/FloatAssistant/FloatAssistant.apk	disabled-user
+com.coloros.lockassistant	/product/priv-app/LockAssistant/LockAssistant.apk	
+com.coloros.ocrscanner	/product/app/OcrScanner/OcrScanner.apk	disabled-user
+com.coloros.ocs.opencapabilityservice	/product/app/OpenCapabilityService/OpenCapabilityService.apk	disabled-user
+com.coloros.operationManual	/product/app/OplusOperationManual/OplusOperationManual.apk	disabled-user
+com.coloros.scenemode	/product/app/SceneMode/SceneMode.apk	disabled-user
+com.coloros.sceneservice	/product/priv-app/SceneService/SceneService.apk	disabled-user
+com.coloros.smartsidebar	/product/app/SmartSideBar/SmartSideBar.apk	disabled-user
+com.coloros.translate	/data/app/OppoTranslation/OppoTranslation.apk	disabled-user,third-party
+com.coloros.translate.engine	/product/priv-app/OppoTranslationService/OppoTranslationService.apk	disabled-user
+com.coloros.video	/product/priv-app/VideoGallery/VideoGallery.apk	disabled-user
+com.facebook.appmanager	/product/app/Facebook-appmanager/Facebook-appmanager.apk	dual-app-user999
+com.facebook.katana	/data/app/Facebook/Facebook.apk	disabled-user,third-party
+com.facebook.services	/product/priv-app/Facebook-services/Facebook-services.apk	dual-app-user999
+com.facebook.system	/product/priv-app/Facebook-installer/Facebook-installer.apk	dual-app-user999
+com.fido.asm	/system_ext/app/FidoAsm/FidoAsm.apk	
+com.fido.fido2client	/system_ext/app/Fido2Client/Fido2Client.apk	
+com.fido.uafclient	/system_ext/app/UAFClient/UAFClient.apk	
+com.fitbit.FitbitMobile	/data/app/GoogleFitbit/GoogleFitbit.apk	disabled-user,third-party
+com.gms.android.ncm.overlay.common	/product/overlay/NcmTetheringResCommonGMS_Sys.apk	
+com.google.android.accessibility.switchaccess	/product/app/SwitchAccess/SwitchAccess.apk	disabled-user
+com.google.android.adservices.api	/apex/com.android.adservices/priv-app/AdServicesApkGoogle@361153320/AdServicesApkGoogle.apk	
+com.google.android.apps.googleassistant	/product/app/GoogleAssistantShell/GoogleAssistantShell.apk	disabled-user
+com.google.android.apps.photos	/product/app/Photos/Photos.apk	disabled-user
+com.google.android.apps.setupwizard.searchselector	/product/priv-app/SearchSelector/SearchSelector.apk	disabled-user
+com.google.android.apps.subscriptions.red	/data/app/GoogleOne/GoogleOne.apk	disabled-user,third-party
+com.google.android.apps.tachyon	/product/app/Meet/Meet.apk	disabled-user
+com.google.android.apps.wellbeing	/product/priv-app/Wellbeing/Wellbeing.apk	disabled-user
+com.google.android.apps.work.clouddpc	/product/app/clouddpc/clouddpc.apk	disabled-user
+com.google.android.appsearch.apk	/apex/com.android.appsearch/priv-app/com.google.android.appsearch.apk@361525160/com.google.android.appsearch.apk.apk	
+com.google.android.captiveportallogin	/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk	
+com.google.android.cellbroadcastreceiver	/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@361524280/GoogleCellBroadcastApp.apk	
+com.google.android.cellbroadcastreceiver.overlay	/system_ext/overlay/CellBroadcastReceiverModuleOverlay/CellBroadcastReceiverModuleOverlay.apk	
+com.google.android.cellbroadcastservice	/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@361524280/GoogleCellBroadcastServiceModule.apk	
+com.google.android.cellbroadcastservice.overlay	/system_ext/overlay/CellBroadcastServiceModuleOverlay/CellBroadcastServiceModuleOverlay.apk	
+com.google.android.configupdater	/product/priv-app/ConfigUpdater/ConfigUpdater.apk	
+com.google.android.connectivity.resources	/apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@361524320/ServiceConnectivityResourcesGoogle.apk	
+com.google.android.connectivity.resources.overlay.oplus	/system_ext/overlay/ServiceConnectivityResourcesOverlay.apk	
+com.google.android.devicelockcontroller	/apex/com.android.devicelock/priv-app/DeviceLockControllerGoogle@343201000/DeviceLockControllerGoogle.apk	disabled-user
+com.google.android.documentsui	/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk	
+com.google.android.ext.services	/apex/com.android.extservices/priv-app/GoogleExtServices@361153320/GoogleExtServices.apk	dual-app-user999
+com.google.android.ext.shared	/my_product/non_overlay/app/GoogleExtShared/GoogleExtShared.apk	
+com.google.android.federatedcompute	/apex/com.android.ondevicepersonalization/app/FederatedComputeGoogle@361153320/FederatedComputeGoogle.apk	
+com.google.android.feedback	/my_product/non_overlay/priv-app/GoogleFeedback/GoogleFeedback.apk	disabled-user
+com.google.android.gms.location.history	/product/app/GoogleLocationHistory/GoogleLocationHistory.apk	disabled-user
+com.google.android.gms.supervision	/product/priv-app/FamilyLinkParentalControls/FamilyLinkParentalControls.apk	disabled-user
+com.google.android.googlequicksearchbox	/product/priv-app/GoogleVelvet_CTS/GoogleVelvet_CTS.apk	disabled-user
+com.google.android.gsf	/my_product/non_overlay/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk	dual-app-user999
+com.google.android.health.connect.backuprestore	/apex/com.android.healthfitness/app/HealthConnectBackupRestoreGoogle@361420700/HealthConnectBackupRestoreGoogle.apk	disabled-user
+com.google.android.healthconnect.controller	/apex/com.android.healthfitness/priv-app/HealthConnectControllerGoogle@361420700/HealthConnectControllerGoogle.apk	disabled-user
+com.google.android.hotspot2.osulogin	/apex/com.android.wifi/app/OsuLoginGoogle@361524080/OsuLoginGoogle.apk	disabled-user
+com.google.android.marvin.talkback	/product/app/talkback/talkback.apk	disabled-user
+com.google.android.modulemetadata	/product/app/com.google.android.modulemetadata/com.google.android.modulemetadata.apk	
+com.google.android.networkstack	/system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk	
+com.google.android.networkstack.overlay	/system_ext/overlay/NetworkStackOverlay.apk	
+com.google.android.networkstack.tethering	/apex/com.android.tethering/priv-app/TetheringGoogle@361524320/TetheringGoogle.apk	
+com.google.android.ondevicepersonalization.services	/apex/com.android.ondevicepersonalization/priv-app/OnDevicePersonalizationGoogle@361153320/OnDevicePersonalizationGoogle.apk	
+com.google.android.onetimeinitializer	/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk	disabled-user
+com.google.android.overlay.gmsconfig.asi	/product/overlay/GmsConfigOverlayASI_Features/GmsConfigOverlayASI_Features.apk	
+com.google.android.overlay.gmsconfig.common	/product/overlay/GmsConfigOverlayCommonEx/GmsConfigOverlayCommonEx.apk	
+com.google.android.overlay.gmsconfig.comms	/product/overlay/GmsConfigOverlayComms/GmsConfigOverlayComms.apk	
+com.google.android.overlay.gmsconfig.gsa	/product/overlay/GmsConfigOverlayGSA/GmsConfigOverlayGSA.apk	
+com.google.android.overlay.gmsconfig.searchselector	/my_product/cust/IN/overlay/GmsConfigOverlaySearchSelector/GmsConfigOverlaySearchSelector.apk	
+com.google.android.overlay.modules.captiveportallogin.forframework	/product/overlay/CaptivePortalLoginFrameworkOverlay.apk	
+com.google.android.overlay.modules.documentsui	/product/overlay/GoogleDocumentsUIOverlay.apk	
+com.google.android.overlay.modules.ext.services	/product/overlay/GoogleExtServicesConfigOverlay.apk	
+com.google.android.overlay.modules.healthfitness.forframework	/product/overlay/GoogleHealthFitnessFrameworkOverlay.apk	
+com.google.android.overlay.modules.modulemetadata.forframework	/product/overlay/ModuleMetadataGoogleOverlay.apk	
+com.google.android.overlay.modules.permissioncontroller	/product/overlay/GooglePermissionControllerOverlay.apk	
+com.google.android.overlay.modules.permissioncontroller.forframework	/product/overlay/GooglePermissionControllerFrameworkOverlay.apk	
+com.google.android.packageinstaller	/my_product/non_overlay/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk	
+com.google.android.partnersetup	/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk	disabled-user
+com.google.android.permissioncontroller	/apex/com.android.permission/priv-app/GooglePermissionController@361524160/GooglePermissionController.apk	dual-app-user999
+com.google.android.permissioncontroller.overlay.oplus	/system_ext/overlay/OplusPermissionControllerOverlay/OplusPermissionControllerOverlay.apk	dual-app-user999
+com.google.android.photopicker	/apex/com.android.mediaprovider/priv-app/PhotopickerGoogle@361521100/PhotopickerGoogle.apk	
+com.google.android.printservice.recommendation	/my_product/non_overlay/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk	disabled-user
+com.google.android.projection.gearhead	/product/priv-app/AndroidAutoStub/AndroidAutoStub.apk	disabled-user
+com.google.android.providers.media.module	/apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@361521100/MediaProviderGoogle.apk	
+com.google.android.rkpdapp	/apex/com.android.rkpd/priv-app/rkpdapp.google@361420880/rkpdapp.google.apk	
+com.google.android.safetycenter.resources	/apex/com.android.permission/priv-app/GoogleSafetyCenterResources@361524160/GoogleSafetyCenterResources.apk	
+com.google.android.sdksandbox	/apex/com.android.adservices/app/SdkSandboxGoogle@361153320/SdkSandboxGoogle.apk	
+com.google.android.server.deviceconfig.resources	/apex/com.android.configinfrastructure/app/DeviceConfigServiceResourcesGoogle@361153320/DeviceConfigServiceResourcesGoogle.apk	
+com.google.android.setupwizard	/my_product/non_overlay/priv-app/SetupWizard/SetupWizard.apk	disabled-user
+com.google.android.uwb.resources	/apex/com.android.uwb/priv-app/ServiceUwbResourcesGoogle@361524000/ServiceUwbResourcesGoogle.apk	
+com.google.android.wifi.dialog	/apex/com.android.wifi/app/WifiDialogGoogle@361524080/WifiDialogGoogle.apk	
+com.google.android.wifi.resources	/apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@361524080/ServiceWifiResourcesGoogle.apk	
+com.google.android.wifi.resources.overlay.common	/product/overlay/WifiResCommonMainline_Sys.apk	
+com.google.android.wifi.resources.overlay.target	/vendor/overlay/WifiResMainlineTarget.apk	
+com.google.mainline.adservices	/product/app/com.google.mainline.adservices/com.google.mainline.adservices.apk	
+com.google.mainline.telemetry	/product/app/com.google.mainline.telemetry/com.google.mainline.telemetry.apk	disabled-user
+com.heytap.accessory	/product/priv-app/AccessoryFramework/AccessoryFramework.apk	disabled-user
+com.heytap.browser	/product/app/Browser/Browser.apk	disabled-user
+com.heytap.cloud	/product/app/CloudService/CloudService.apk	disabled-user
+com.heytap.colorfulengine	/product/priv-app/ColorfulEngine/ColorfulEngine.apk	disabled-user
+com.heytap.market.overlay	/product/overlay/market_exp_overlay.apk	disabled-user
+com.heytap.mcs	/product/app/MCS/MCS.apk	disabled-user
+com.heytap.mydevices	/product/priv-app/MyDevices/MyDevices.apk	disabled-user
+com.heytap.pictorial	/data/app/Pictorial/Pictorial.apk	disabled-user,third-party
+com.katanlabs.bubblepop	/data/app/com.katanlabs.bubblepop/com.katanlabs.bubblepop.apk	disabled-user,third-party
+com.katanlabs.wordconnectwondersofview	/data/app/com.katanlabs.wordconnectwondersofview/com.katanlabs.wordconnectwondersofview.apk	disabled-user,third-party
+com.mediatek.omacp	/product/priv-app/Omacp/Omacp.apk	
+com.microsoft.deviceintegrationservice	/product/priv-app/DeviceIntegrationService/DeviceIntegrationService.apk	
+com.microsoftsdk.crossdeviceservicebroker	/system/app/CrossDeviceServiceBroker/CrossDeviceServiceBroker.apk	
+com.myntra.android	/data/app/com.myntra.android/com.myntra.android.apk	disabled-user,third-party
+com.nearme.instant.platform	/product/app/Instant/Instant.apk	
+com.netflix.mediaclient	/data/app/com.netflix.mediaclient/com.netflix.mediaclient.apk	disabled-user,third-party
+com.oneplus.account	/product/priv-app/KeKeUserCenter/KeKeUserCenter.apk	disabled-user
+com.oneplus.backuprestore	/data/app/BackupAndRestore/BackupAndRestore.apk	disabled-user,third-party
+com.oneplus.brickmode	/data/app/OPBreathMode/OPBreathMode.apk	disabled-user,third-party
+com.oneplus.calculator	/product/app/Calculator2/Calculator2.apk	
+com.oneplus.colorx	/product/app/Colorx/Colorx.apk	disabled-user
+com.oneplus.deskclock	/product/app/Clock/Clock.apk	
+com.oneplus.filemanager	/product/app/FileManager/FileManager.apk	
+com.oneplus.gallery	/product/priv-app/OppoGallery2/OppoGallery2.apk	
+com.oneplus.mall	/data/app/INOnePlusStore/INOnePlusStore.apk	disabled-user,third-party
+com.oneplus.membership	/product/priv-app/OPMemberShip/OPMemberShip.apk	disabled-user
+com.oneplus.note	/data/app/OppoNote2/OppoNote2.apk	third-party
+com.oneplus.oshare	/product/priv-app/OShare/OShare.apk	
+com.oplus.aimemory	/product/app/AIMemory/AIMemory.apk	disabled-user
+com.oplus.aiunit	/product/priv-app/AIUnit/AIUnit.apk	
+com.oplus.aiwriter	/product/app/AIWriter/AIWriter.apk	disabled-user
+com.oplus.ambient.livealert	/product/app/ambientalert/ambientalert.apk	
+com.oplus.android.overlay.aifunction.cicletosearch	/product/overlay/OplusAiConfigOverlayCircleToSearch/OplusAiConfigOverlayCircleToSearch.apk	
+com.oplus.android.overlay.aifunction.common	/product/overlay/OplusAiConfigOverlayCommon/OplusAiConfigOverlayCommon.apk	
+com.oplus.android.overlay.gmsconfig.common	/product/overlay/OplusGmsConfigOverlayCommon/OplusGmsConfigOverlayCommon.apk	
+com.oplus.aod	/product/app/Aod/Aod.apk	disabled-user
+com.oplus.appbooster	/system_ext/priv-app/AppBooster/AppBooster.apk	disabled-user
+com.oplus.appplatform	/system_ext/priv-app/OplusAppPlatform/OplusAppPlatform.apk	
+com.oplus.apprecover	/product/priv-app/MDSService/MDSService.apk	disabled-user
+com.oplus.appsense	/system_ext/app/SubsysPlugins_plugin_AppSense/SubsysPlugins_plugin_AppSense.apk	disabled-user
+com.oplus.athena	/system_ext/app/Athena/Athena.apk	
+com.oplus.atlas	/system_ext/app/OplusAtlasService/OplusAtlasService.apk	
+com.oplus.audio.effectcenter	/product/app/AudioEffectCenter/AudioEffectCenter.apk	
+com.oplus.battery	/system_ext/app/Battery/Battery.apk	
+com.oplus.beaconlink	/product/app/BeaconLink/BeaconLink.apk	disabled-user
+com.oplus.blur	/system_ext/priv-app/BlurService/BlurService.apk	disabled-user
+com.oplus.bttestmode	/system_ext/app/BTtestmode/BTtestmode.apk	disabled-user
+com.oplus.callrecorder	/product/priv-app/OplusCallRecorder/OplusCallRecorder.apk	disabled-user
+com.oplus.camera	/product/app/OplusCamera/OplusCamera.apk	
+com.oplus.cast	/product/priv-app/HeyCast/HeyCast.apk	
+com.oplus.cell.map	/system_ext/app/SubsysPlugins_plugin_CellMap/SubsysPlugins_plugin_CellMap.apk	
+com.oplus.cellularqoe	/system_ext/app/SubsysPlugins_plugin_CellularQoe/SubsysPlugins_plugin_CellularQoe.apk	
+com.oplus.contentportal	/product/priv-app/ContentPortal/ContentPortal.apk	disabled-user
+com.oplus.cosa	/product/app/COSA/COSA.apk	
+com.oplus.crashbox	/system_ext/app/CrashBox/CrashBox.apk	disabled-user
+com.oplus.customize.coreapp	/mnt/opex/com.oplus.CustCore@16000008/priv-app/CustCoreApp/CustCore.apk	disabled-user
+com.oplus.deepthinker	/system_ext/priv-app/DeepThinker/DeepThinker.apk	
+com.oplus.dfs	/system_ext/priv-app/DFS/DFS.apk	
+com.oplus.dmp	/product/priv-app/dmp/dmp.apk	disabled-user
+com.oplus.eid	/system_ext/app/EidService/EidService.apk	
+com.oplus.encryption	/product/app/FileEncryption/FileEncryption.apk	
+com.oplus.engineercamera	/system_ext/app/OplusCommercialEngineerCamera/OplusCommercialEngineerCamera.apk	disabled-user
+com.oplus.engineermode	/system_ext/app/OplusCommercialEngineerMode/OplusCommercialEngineerMode.apk	disabled-user
+com.oplus.engineernetwork	/system_ext/app/OplusEngineerNetwork/OplusEngineerNetwork.apk	disabled-user
+com.oplus.exsystemservice	/system_ext/priv-app/OplusExSystemService/OplusExSystemService.apk	
+com.oplus.eyeprotect	/system_ext/app/OplusEyeProtect/OplusEyeProtect.apk	
+com.oplus.framework.network.drs	/product/priv-app/DRS/DRS.apk	
+com.oplus.framework.res.overlay	/product/overlay/OplusFwkResOverlay/OplusFwkResOverlay.apk	
+com.oplus.framework.rro.oneplus	/product/overlay/oplus_framework_res_rro_oneplus.apk	
+com.oplus.framework_bluetooth.overlay	/system_ext/overlay/OplusFrameworkBluetoothResource.apk	
+com.oplus.games	/product/priv-app/OplusGames/OplusGames.apk	disabled-user
+com.oplus.gesture	/system_ext/app/OplusGestureUI/OplusGestureUI.apk	
+com.oplus.healthservice	/system_ext/app/HealthService/HealthService.apk	disabled-user
+com.oplus.keyguard.clock.base	/system_ext/app/KeyguardClockBase/KeyguardClockBase.apk	
+com.oplus.keyguard.personality.clocks	/system_ext/app/KeyguardPersonalityClocks/KeyguardPersonalityClocks.apk	
+com.oplus.keyguard.style.widgets	/system_ext/app/KeyguardStyleWidget/KeyguardStyleWidget.apk	
+com.oplus.lfeh	/system_ext/app/LFEHer/LFEHer.apk	disabled-user
+com.oplus.linker	/product/priv-app/OPSynergy/OPSynergy.apk	
+com.oplus.location	/system_ext/app/OplusLocationService/OplusLocationService.apk	
+com.oplus.locationproxy	/product/app/LocationProxy/LocationProxy.apk	disabled-user
+com.oplus.logkit	/system_ext/app/LogKit/LogKit.apk	disabled-user
+com.oplus.mediacontroller	/system_ext/app/OplusMediaController/OplusMediaController.apk	
+com.oplus.mediaturbo	/product/priv-app/MediaTurbo/MediaTurbo.apk	
+com.oplus.metis	/product/priv-app/Metis/Metis.apk	disabled-user
+com.oplus.motionsense	/system_ext/app/SubsysPlugins_plugin_MotionSense/SubsysPlugins_plugin_MotionSense.apk	
+com.oplus.multiapp	/system_ext/app/OplusMultiApp/OplusMultiApp.apk	
+com.oplus.nas	/mnt/opex/com.oplus.NetworkAssistSys@16001066/app/NetworkAssistSys.apk	
+com.oplus.ndsf	/product/priv-app/DSF/DSF.apk	
+com.oplus.nearcomm	/system_ext/priv-app/OplusNearComm/OplusNearComm.apk	disabled-user
+com.oplus.networksense	/system_ext/app/NetworkSense_plugin_NetworkSense/NetworkSense_plugin_NetworkSense.apk	
+com.oplus.nfcengineertest	/system_ext/app/NfcEngineerTest/NfcEngineerTest.apk	
+com.oplus.nhs	/system_ext/app/NetworkHealthService/NetworkHealthService.apk	
+com.oplus.notificationmanager	/system_ext/app/NotificationCenter/NotificationCenter.apk	
+com.oplus.nrMode	/system_ext/priv-app/OplusNrMode/OplusNrMode.apk	
+com.oplus.nwestimate	/system_ext/app/NetworkSense_plugin_NwEstimate/NetworkSense_plugin_NwEstimate.apk	
+com.oplus.obrain	/my_stock/non_overlay/app/OBrain/OBrain.apk	disabled-user
+com.oplus.olc	/system_ext/app/Olc/Olc.apk	
+com.oplus.omoji	/mnt/opex/com.oplus.Omoji@16000011/app/app.apk	disabled-user
+com.oplus.onetrace	/system_ext/app/OTrace/OTrace.apk	disabled-user
+com.oplus.ota	/system_ext/app/OTA/OTA.apk	
+com.oplus.owkservice	/system_ext/app/OwkService/OwkService.apk	disabled-user
+com.oplus.pantanal.ums	/product/priv-app/UMS/UMS.apk	
+com.oplus.pay	/product/app/KeKePay/KeKePay.apk	
+com.oplus.phonemanager	/product/priv-app/PhoneManager/PhoneManager.apk	disabled-user
+com.oplus.plugin	/system_ext/priv-app/SubsysInterfacePlugin/SubsysInterfacePlugin.apk	disabled-user
+com.oplus.postmanservice	/system_ext/app/PostmanService/PostmanService.apk	disabled-user
+com.oplus.powermonitor	/system_ext/app/PowerMonitor/PowerMonitor.apk	
+com.oplus.pscanvas	/system_ext/app/OplusFlexibleWindowUI/OplusFlexibleWindowUI.apk	disabled-user
+com.oplus.qualityprotect	/system_ext/app/OplusQualityProtect/OplusQualityProtect.apk	disabled-user
+com.oplus.riderMode	/data/app/RiderMode/RiderMode.apk	disabled-user,third-party
+com.oplus.romupdate	/product/app/RomUpdate/RomUpdate.apk	
+com.oplus.safecenter	/system_ext/app/SafeCenter/SafeCenter.apk	
+com.oplus.sandbox.runtime	/product/priv-app/SandboxRuntime/SandboxRuntime.apk	disabled-user
+com.oplus.sau	/system_ext/app/SystemAppUpdateService/SystemAppUpdateService.apk	
+com.oplus.screenrecorder	/product/priv-app/OplusScreenRecorder/OplusScreenRecorder.apk	
+com.oplus.screenshot	/product/priv-app/Screenshot/Screenshot.apk	
+com.oplus.securepay	/product/app/SecurePay/SecurePay.apk	
+com.oplus.securityguard	/product/priv-app/SecurityGuard/SecurityGuard.apk	
+com.oplus.securitykeyboard	/product/app/OplusSecurityKeyboard/OplusSecurityKeyboard.apk	
+com.oplus.securitypermission	/system_ext/app/SecurityPermission/SecurityPermission.apk	dual-app-user999
+com.oplus.sense.netprediction	/system_ext/app/NetworkSense_plugin_NetPrediction/NetworkSense_plugin_NetPrediction.apk	disabled-user
+com.oplus.sense.netscore	/system_ext/app/NetworkSense_plugin_NetScore/NetworkSense_plugin_NetScore.apk	disabled-user
+com.oplus.smartengine	/product/app/SmartEngine/SmartEngine.apk	
+com.oplus.sos	/product/priv-app/SOSHelper/SOSHelper.apk	
+com.oplus.statistics.rom	/product/priv-app/DCS/DCS.apk	disabled-user
+com.oplus.stdid	/system_ext/priv-app/StdID/StdID.apk	
+com.oplus.stdsp	/product/priv-app/StdSP/StdSP.apk	disabled-user
+com.oplus.subsys	/system_ext/app/SubsystemApp/SubsystemApp.apk	
+com.oplus.systemui.plugins	/system_ext/app/SystemUIPlugin/SystemUIPlugin.apk	
+com.oplus.tai.borderpresearch	/system_ext/app/SubsysPlugins_plugin_BorderPreSearch/SubsysPlugins_plugin_BorderPreSearch.apk	disabled-user
+com.oplus.tai.wifiqoe	/system_ext/app/SubsysPlugins_plugin_WifiQoe/SubsysPlugins_plugin_WifiQoe.apk	disabled-user
+com.oplus.themestore	/product/priv-app/KeKeThemeSpace/KeKeThemeSpace.apk	
+com.oplus.trafficmonitor	/system_ext/priv-app/TrafficMonitor/TrafficMonitor.apk	
+com.oplus.uiengine	/product/app/VariUIEngine/VariUIEngine.apk	
+com.oplus.uxdesign	/system_ext/app/UXDesign/UXDesign.apk	
+com.oplus.vdc	/system_ext/priv-app/VDCService/VDCService.apk	disabled-user
+com.oplus.virtualcomm	/system_ext/priv-app/OplusVirtualComm/OplusVirtualComm.apk	
+com.oplus.virtualcomm2	/system_ext/priv-app/VirtualCommService/VirtualCommService.apk	
+com.oplus.voice.crs	/system_ext/app/CrsVcrbtSwitch/CrsVcrbtSwitch.apk	disabled-user
+com.oplus.wallpapers	/product/priv-app/Wallpapers/Wallpapers.apk	
+com.oplus.wifibackuprestore	/product/app/WifiBackupRestore/WifiBackupRestore.apk	disabled-user
+com.oplus.wirelesssettings	/system_ext/priv-app/WirelessSettings/WirelessSettings.apk	
+com.qti.dcf	/system_ext/priv-app/dcf/dcf.apk	
+com.qti.dpmserviceapp	/system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk	
+com.qti.qcc	/system_ext/app/QCC/QCC.apk	
+com.qti.qualcomm.datastatusnotification	/product/app/datastatusnotification/datastatusnotification.apk	
+com.qualcomm.atfwd	/system_ext/app/atfwd/atfwd.apk	
+com.qualcomm.location	/system_ext/priv-app/com.qualcomm.location/com.qualcomm.location.apk	
+com.qualcomm.qcrilmsgtunnel	/system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk	
+com.qualcomm.qti.cne	/vendor/app/CneApp/CneApp.apk	
+com.qualcomm.qti.devicestatisticsservice	/product/app/DeviceStatisticsService/DeviceStatisticsService.apk	
+com.qualcomm.qti.powersavemode	/system_ext/app/PowerSaveMode/PowerSaveMode.apk	
+com.qualcomm.qti.qms.service.trustzoneaccess	/vendor/app/TrustZoneAccessService/TrustZoneAccessService.apk	
+com.qualcomm.qti.telephonyservice	/system_ext/app/QtiTelephonyService/QtiTelephonyService.apk	
+com.qualcomm.qti.uimGbaApp	/product/app/uimgbaservice/uimgbaservice.apk	
+com.qualcomm.qti.workloadclassifier	/system_ext/app/workloadclassifier/workloadclassifier.apk	
+com.qualcomm.qti.xrcb	/system_ext/priv-app/xrcbservice/xrcbservice.apk	
+com.qualcomm.qti.xrvd.service	/system_ext/priv-app/xrvdservice/xrvdservice.apk	
+com.qualcomm.timeservice	/vendor/app/TimeService/TimeService.apk	
+com.qualcomm.uimremoteclient	/product/app/uimremoteclient/uimremoteclient.apk	
+com.qualcomm.uimremoteserver	/product/app/uimremoteserver/uimremoteserver.apk	
+com.qualcomm.wfd.service	/system_ext/priv-app/WfdService/WfdService.apk	
+com.redteamobile.roaming	/product/app/SoftsimRedteaRoaming/SoftsimRedteaRoaming.apk	disabled-user
+com.wapi.wapicertmanage	/system_ext/app/WapiCertManage/WapiCertManage.apk	
+net.oneplus.forums	/data/app/OPForum/OPForum.apk	disabled-user,third-party
+net.oneplus.widget	/data/app/OPWidget/OPWidget.apk	third-party
+oplus	/system_ext/framework/oplus-framework-res.apk	
+oplus.frameworkres.overlay.display.product	/product/overlay/oplus_framework_res_overlay.display.product.23881.apk	
+org.codeaurora.ims	/system_ext/priv-app/ims/ims.apk	
+vendor.qti.data.ntnsatapp	/system_ext/app/NtnSatApp/NtnSatApp.apk	
+vendor.qti.frameworks.utils	/system_ext/app/FrameworksUtilsSysService/FrameworksUtilsSysService.apk	
+vendor.qti.hardware.cacert.server	/vendor/app/CACertService/CACertService.apk	
+vendor.qti.imsdatachannel	/system_ext/app/ImsDataChannelService/ImsDataChannelService.apk	
+vendor.qti.iwlan	/vendor/app/IWlanService/IWlanService.apk	

@@ -21,7 +21,7 @@ DOOR="162.35.173.192:5556"
 # The old hand-maintained debloat_targets.txt is only a fallback now.
 # To change what stays disabled: change the phone first, re-snapshot the
 # baseline file, then let this cron hold that state.
-BASELINE=/opt/data/agent-harness/phone-ops/deploy/disabled_baseline.txt
+BASELINE=/opt/data/node0/deploy/disabled_baseline.txt
 LIST=/opt/data/tmp/phone_deploy/debloat_targets.txt
 
 # Small always-on core set (kept even if the list file is missing).
@@ -88,7 +88,7 @@ PLAYBACK_KEEP="com.oplus.mediacontroller com.oplus.audio.effectcenter com.google
 BANNED="mark.via"
 # Canonical list lives in deploy/banned.txt (same pattern as the baseline
 # snapshot) so the ban set has one source of truth across copies of this script.
-BANNED_FILE=/opt/data/agent-harness/phone-ops/deploy/banned.txt
+BANNED_FILE=/opt/data/node0/deploy/banned.txt
 if [ -f "$BANNED_FILE" ]; then
   _b="$(grep -v '^#' "$BANNED_FILE" 2>/dev/null | grep -v '^$' | tr '\n' ' ')"
   [ -n "$_b" ] && BANNED="$_b"
