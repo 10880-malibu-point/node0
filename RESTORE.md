@@ -35,15 +35,15 @@ Android 16, serial `79e6e520`.
 
 ## 2. Restore the phone-side stack
 
-Everything below is in `phone-side/` (12 files).
+Everything below is in `phone-src/` (10 scripts + properties).
 
 ```sh
 # on the phone (Termux), or via run-as com.termux from adb:
 mkdir -p $HOME/.termux/boot
-cp phone-side/boot/00_boot_start.sh $HOME/.termux/boot/
-cp phone-side/*.sh $HOME/
+cp phone-src/boot_start.sh $HOME/.termux/boot/
+cp phone-src/*.sh $HOME/
 chmod +x $HOME/*.sh $HOME/.termux/boot/*.sh
-cp phone-side/properties/termux.properties $HOME/.termux/termux.properties
+cp phone-src/properties/termux.properties $HOME/.termux/termux.properties
 
 # Termux packages (89 - see state/termux_packages.txt):
 pkg install openssh curl android-tools coreutils procps psmisc \
@@ -187,8 +187,8 @@ ssh -p 22070 -i /opt/data/home/.ssh/phone_ed25519 u0_a363@162.35.173.192 'echo O
 
 - Snapshot: `state/README.md` + `state/*.txt|json`
 - Watchdog (re-enforcer): `scripts/phone_disable_watchdog.sh`
-- Phone-side boot/supervisor: `phone-side/boot/00_boot_start.sh`,
-  `phone-side/supervisor.sh`, `phone-side/phone_bringup.sh`
+- Phone-side boot/supervisor: `phone-src/boot_start.sh`,
+  `phone-src/supervisor.sh`, `phone-src/phone_bringup.sh`
 - Debloat target list: `deploy/disabled_baseline.txt` (live baseline),
   `deploy/debloat_targets.txt` (fallback), `deploy/banned.txt`
 - Full procedure + pitfalls: `README.md` (this repo), `CLAUDE.md`

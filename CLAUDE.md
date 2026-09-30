@@ -53,5 +53,20 @@ Lists in `deploy/` are the canonical source of truth. After any change:
 
 | Script | Purpose |
 |---|---|
-| `phone-src/boot_start.sh` | Termux boot: starts sshd + tunnel |
-| `phone-src/supervisor.sh` | Termux supervisor: keeps sshd up |
+| `phone-src/boot_start.sh` | Termux boot: starts supervisor + daemons |
+| `phone-src/supervisor.sh` | Keeps sshd + both reverse tunnels alive (v7, bash probes) |
+| `phone-src/phone_bringup.sh` | Cold-start bringup: sshd + tunnel + adbd pin, idempotent |
+| `phone-src/phone_watchdog.sh` | Phone-side revive if Android kills the stack |
+| `phone-src/phone_wake_scheduler.sh` | Daily wake alarm (native-independent) |
+| `phone-src/sensor_capture.sh` | Termux:API sensor log capture |
+| `phone-src/start_stack.sh` | Manual stack starter |
+| `phone-src/debloat.sh` | On-phone debloat helper |
+| `phone-src/td.sh` | Ad-hoc helper |
+| `phone-src/wake_me.sh` | Wake helper |
+| `phone-src/properties/termux.properties` | Termux config |
+
+## STATE SNAPSHOT + RESTORE
+
+- `state/` - full device snapshot (packages, roles, settings, OTA gates, keys)
+- `RESTORE.md` - ordered rebuild procedure for a wiped/replaced phone
+- `state/README.md` - snapshot reference + watchouts

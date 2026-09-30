@@ -6,21 +6,25 @@ egress tunnel, door monitoring, sensor pull, and Termux on-phone boot/supervisor
 ## Directory Structure
 
 ```
-phone-ops/
-  README.md              -- this file
+node0/
+  README.md              -- this file (phone ops overview)
   CLAUDE.md              -- agent context for this directory
-  deploy/                -- debloat package lists (VPS2 canonical)
-  phone-src/             -- scripts that run ON the phone (Termux/ssh)
+  RESTORE.md             -- step-by-step phone rebuild procedure
+  deploy/                -- debloat package lists (canonical, VPS2-referenced)
+  phone-src/             -- scripts that run ON the phone (Termux boot/supervisor)
   scripts/               -- scripts that run ON VPS2 (adb/watchdogs)
+  state/                 -- full state snapshot (packages/roles/settings/ota/keys)
 ```
 
 ## Origin / History
 
-This directory consolidates what was scattered across three locations:
-- `/opt/data/phone-resilience/` -- older archive (Sep 11, 2026)
-- `/opt/data/infra-repos/phone-egress/` -- one-shot git repo (Sep 11, 2026)
-- `/opt/data/scripts/phone*.sh` -- previous canonical home (now symlinks/redirects)
-- `/opt/data/tmp/phone_deploy/` -- one-time phone setup artifacts
+Moved out of `agent-harness/phone-ops` on 30-Sep-2026 (repo `10880-malibu-point/node0`
+is now the single home for CPH2619 phone management). Earlier archives folded in:
+- `/opt/data/phone-resilience/` (Sep 11, 2026)
+- `/opt/data/infra-repos/phone-egress/` (Sep 11, 2026)
+
+The VPS2 live scripts live at `/opt/data/scripts/*.sh` (identical bytes to
+`scripts/` here) and are what the cron jobs run; `scripts/` is the canonical copy.
 
 ## How It Works
 
